@@ -1,1 +1,1 @@
-# Lab11NN
+# Lab11 RedesNeuronales
